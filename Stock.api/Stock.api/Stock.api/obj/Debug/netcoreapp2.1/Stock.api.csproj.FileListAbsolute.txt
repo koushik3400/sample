@@ -1,0 +1,13 @@
+D:\Clients\Stock.api\Stock.api\bin\Debug\netcoreapp2.1\Stock.api.deps.json
+D:\Clients\Stock.api\Stock.api\bin\Debug\netcoreapp2.1\Stock.api.runtimeconfig.json
+D:\Clients\Stock.api\Stock.api\bin\Debug\netcoreapp2.1\Stock.api.runtimeconfig.dev.json
+D:\Clients\Stock.api\Stock.api\bin\Debug\netcoreapp2.1\Stock.api.dll
+D:\Clients\Stock.api\Stock.api\bin\Debug\netcoreapp2.1\Stock.api.pdb
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.csproj.CoreCompileInputs.cache
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.RazorAssemblyInfo.cache
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.RazorAssemblyInfo.cs
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.AssemblyInfoInputs.cache
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.AssemblyInfo.cs
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.RazorTargetAssemblyInfo.cache
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.dll
+D:\Clients\Stock.api\Stock.api\obj\Debug\netcoreapp2.1\Stock.api.pdb
